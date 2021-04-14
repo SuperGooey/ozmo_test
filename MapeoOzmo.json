@@ -1,0 +1,3 @@
+{'nodes': [{'id': 'eder@ozmo.mx', 'name': 'none'}],
+ 'links': [{'source': 'eder@ozmo.mx', 'target': 'cesar@ozmo.mx'},
+  {'source': 'eder@ozmo.mx', 'target': 'anahi@ozmo.mx'}]}
