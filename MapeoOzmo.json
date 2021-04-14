@@ -1,19 +1,29 @@
 {
   "nodes": [
     {
-      "id": "eder@ozmo.mx", 
-      "name": "none"
+      "id": 1, 
+      "name": "Eder"
+    }
+    ,
+    {
+      "id": 2, 
+      "name": "Cesar"
+    }
+    ,
+    {
+      "id": 3, 
+      "name": "Ana"
     }
   ],
  "links": [
     {
-     "source": "eder@ozmo.mx", 
-     "target": "cesar@ozmo.mx"
+     "source": 1, 
+     "target": 2
     }
     ,
     {
-      "source": "eder@ozmo.mx", 
-      "target": "anahi@ozmo.mx"
+      "source": 1, 
+      "target": 3
     }
   ]
 }
